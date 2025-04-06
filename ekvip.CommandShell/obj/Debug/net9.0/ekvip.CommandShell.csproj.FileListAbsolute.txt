@@ -1,0 +1,15 @@
+C:\Users\buari\source\repos\ekvip.CommandShell\ekvip.CommandShell\bin\Debug\net9.0\ekvip.CommandShell.exe
+C:\Users\buari\source\repos\ekvip.CommandShell\ekvip.CommandShell\bin\Debug\net9.0\ekvip.CommandShell.deps.json
+C:\Users\buari\source\repos\ekvip.CommandShell\ekvip.CommandShell\bin\Debug\net9.0\ekvip.CommandShell.runtimeconfig.json
+C:\Users\buari\source\repos\ekvip.CommandShell\ekvip.CommandShell\bin\Debug\net9.0\ekvip.CommandShell.dll
+C:\Users\buari\source\repos\ekvip.CommandShell\ekvip.CommandShell\bin\Debug\net9.0\ekvip.CommandShell.pdb
+C:\Users\buari\source\repos\ekvip.CommandShell\ekvip.CommandShell\obj\Debug\net9.0\ekvip.CommandShell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buari\source\repos\ekvip.CommandShell\ekvip.CommandShell\obj\Debug\net9.0\ekvip.CommandShell.AssemblyInfoInputs.cache
+C:\Users\buari\source\repos\ekvip.CommandShell\ekvip.CommandShell\obj\Debug\net9.0\ekvip.CommandShell.AssemblyInfo.cs
+C:\Users\buari\source\repos\ekvip.CommandShell\ekvip.CommandShell\obj\Debug\net9.0\ekvip.CommandShell.csproj.CoreCompileInputs.cache
+C:\Users\buari\source\repos\ekvip.CommandShell\ekvip.CommandShell\obj\Debug\net9.0\ekvip.CommandShell.dll
+C:\Users\buari\source\repos\ekvip.CommandShell\ekvip.CommandShell\obj\Debug\net9.0\refint\ekvip.CommandShell.dll
+C:\Users\buari\source\repos\ekvip.CommandShell\ekvip.CommandShell\obj\Debug\net9.0\ekvip.CommandShell.pdb
+C:\Users\buari\source\repos\ekvip.CommandShell\ekvip.CommandShell\obj\Debug\net9.0\ekvip.CommandShell.genruntimeconfig.cache
+C:\Users\buari\source\repos\ekvip.CommandShell\ekvip.CommandShell\obj\Debug\net9.0\ref\ekvip.CommandShell.dll
+C:\Users\buari\source\repos\ekvip.CommandShell\ekvip.CommandShell\obj\Debug\net9.0\ekvip.CommandShell.sourcelink.json

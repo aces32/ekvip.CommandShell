@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ekvip.CommandShell": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
